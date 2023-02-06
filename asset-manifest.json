@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RodrigoReis12/Cocktails/static/css/main.2f9f34ad.css",
+    "main.js": "/RodrigoReis12/Cocktails/static/js/main.370077f6.js",
+    "static/media/Logo.svg": "/RodrigoReis12/Cocktails/static/media/Logo.73d6942fcf4bc2644af249ed086b9fb1.svg",
+    "index.html": "/RodrigoReis12/Cocktails/index.html",
+    "main.2f9f34ad.css.map": "/RodrigoReis12/Cocktails/static/css/main.2f9f34ad.css.map",
+    "main.370077f6.js.map": "/RodrigoReis12/Cocktails/static/js/main.370077f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f9f34ad.css",
+    "static/js/main.370077f6.js"
+  ]
+}
