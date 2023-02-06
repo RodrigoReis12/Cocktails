@@ -2,7 +2,7 @@
 
 # Cocktails
 
-Projeto para treinar consulta a **API**.
+Projeto realizado para treinar consulta a **API**.
 
 ## Link
 
