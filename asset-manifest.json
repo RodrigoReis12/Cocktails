@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RodrigoReis12/Cocktails/static/css/main.2f9f34ad.css",
-    "main.js": "/RodrigoReis12/Cocktails/static/js/main.dc623c05.js",
-    "static/media/Logo.svg": "/RodrigoReis12/Cocktails/static/media/Logo.73d6942fcf4bc2644af249ed086b9fb1.svg",
-    "index.html": "/RodrigoReis12/Cocktails/index.html",
-    "main.2f9f34ad.css.map": "/RodrigoReis12/Cocktails/static/css/main.2f9f34ad.css.map",
-    "main.dc623c05.js.map": "/RodrigoReis12/Cocktails/static/js/main.dc623c05.js.map"
+    "main.css": "/Cocktails/static/css/main.2f9f34ad.css",
+    "main.js": "/Cocktails/static/js/main.f6b8114f.js",
+    "static/media/Logo.svg": "/Cocktails/static/media/Logo.73d6942fcf4bc2644af249ed086b9fb1.svg",
+    "index.html": "/Cocktails/index.html",
+    "main.2f9f34ad.css.map": "/Cocktails/static/css/main.2f9f34ad.css.map",
+    "main.f6b8114f.js.map": "/Cocktails/static/js/main.f6b8114f.js.map"
   },
   "entrypoints": [
     "static/css/main.2f9f34ad.css",
-    "static/js/main.dc623c05.js"
+    "static/js/main.f6b8114f.js"
   ]
 }
