@@ -44,7 +44,7 @@ function Home() {
                       <h1>{item.strDrink}</h1>
                       <h2>{item.strGlass}</h2>
                       <p>{item.strAlcoholic}</p>
-                      <Link to="/details" onClick={() => console.log(item.idDrink)}>Details</Link>
+                      <Link to="/details">Details</Link>
                     </div>
                   </li>
               )) : ""}
