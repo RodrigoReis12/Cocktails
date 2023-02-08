@@ -2,7 +2,7 @@
 
 # Cocktails
 
-Projeto realizado para treinar consulta a **API**.
+Project in **React** made to training **API** queries.
 
 ## Link
 
